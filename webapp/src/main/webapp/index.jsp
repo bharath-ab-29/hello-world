@@ -1,1 +1,14 @@
-<h1>Bharath got cooked</h2>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Center Text Example</title>
+</head>
+<body>
+  <center>
+    <h1>Bharath Got Cooked</h1>
+  </center>
+</body>
+</html>
+
