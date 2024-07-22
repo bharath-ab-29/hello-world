@@ -6,7 +6,7 @@
     <title>Title vaikala</title>
 </head>
 <body>
-	<centre><h1>Vanakkam da shaliney !!</h1>
+	<centre><h1>Sucess!!</h1>
     </centre>
 </body>
 </html>
