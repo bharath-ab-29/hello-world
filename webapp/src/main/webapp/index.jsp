@@ -6,7 +6,7 @@
     <title>Title vaikala</title>
 </head>
 <body>
-	<centre><h1>He Who Forgives And Acknowledges Himself, That Is What It Truly Means To Be Strong! 123</h1>
+	<centre><h1>Akshaya Akka oru mental</h1>
     </centre>
 </body>
 </html>
